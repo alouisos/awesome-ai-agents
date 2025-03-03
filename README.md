@@ -5,6 +5,6 @@ I am Alex Louizos an AI engineer and I'm passionate about creating amazing AI ag
 
 ## Projects
 
-### [Chat With Your Data](https://www.google.com)
+### [Chat With Your Data]([https://www.google.com](https://github.com/alouisos/awesome-ai-agents/tree/main/AI-Agents/1.%20Chat%20WIth%20Your%20Data))
 **Description:**  
 Imagine having a conversation with your data—asking questions in plain English and receiving instant, actionable insights as if you had a personal business analyst by your side. "Chat with Your Data" harnesses the power of advanced AI to break down complex datasets into understandable trends, forecasts, and recommendations. This project empowers everyone, regardless of technical expertise, to dive into analytics, make data-driven decisions, and unlock hidden business opportunities. Whether you're brainstorming new strategies or exploring market trends, our AI-driven solution makes data analysis as easy as chatting with a friend.
