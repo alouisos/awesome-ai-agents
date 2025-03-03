@@ -1,7 +1,7 @@
-# \Awesome AI Agents for Business
+## Awesome AI Agents for Business
 
 ## Introduction
-I am passionate about creating amazing AI agents for business. I believe that integrating advanced artificial intelligence into business processes can revolutionize operations, enhance decision-making, and unlock new levels of productivity. My work is driven by the vision of a future where smart, adaptable AI agents help businesses stay agile and competitive in a rapidly changing world.
+I am Alex Louizos an AI engineer and I'm passionate about creating amazing AI agents for business. I believe that integrating advanced artificial intelligence into business processes can revolutionize operations, enhance decision-making, and unlock new levels of productivity. My work is driven by the vision of a future where smart, adaptable AI agents help businesses stay agile and competitive in a rapidly changing world.
 
 ## Projects
 
