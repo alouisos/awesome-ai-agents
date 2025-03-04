@@ -1,0 +1,45 @@
+get_the_text_of_url:
+  description: >
+    get the text of the {url} and save it as context for the next task 
+  expected_output: >
+    The text of the {url} 
+
+create_content:
+  description: >
+    Based on the text provided by the Market News Monitor and
+    Data Analyst agents, create high-quality, engaging content that
+    educates and informs the target audience about {url}.
+    Produce content that is meant to be delivered through voice as a podcast
+    that effectively communicates the insights of the {url}
+    gathered. Ensure the content clearly conveys the key findings
+    and recommendations related to {url}. 
+  expected_output: >
+    A collection of high-quality content related to {url},
+    including that is meant to be delivered through voice as a podcast
+    Do not include any elements as title, podcast intro music or transition sound etc 
+    but only the narrative text for the podcast. 
+
+quality_assurance:
+  description: >
+    Review and refine the content created on {url} to ensure it
+    meets the highest standards of accuracy, clarity, and brand
+    alignment. Thoroughly proofread and edit the content, checking
+    for errors, inconsistencies, and alignment with the brand voice.
+    Ensure that the content accurately reflects the key insights and
+    recommendations provided by the Creative Content Director agents. 
+    Ensure that the final content is well-formatted to enhance readability
+    by the narrator and engagement by the audience.
+  expected_output: >
+    A finalized podcast content related to {url}, thoroughly
+    reviewed, and formatted in markdown. The content should be
+    well-structured, and easy to read by a voice narrator. 
+    Do not include any elements as title, podcast intro music or transition sound etc 
+    but only the narrative text for the podcast. 
+
+
+
+
+
+
+
+
