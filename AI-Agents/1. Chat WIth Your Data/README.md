@@ -65,6 +65,9 @@ Once the app is running, open the provided URL (usually `http://localhost:8501`)
 3. **Response Handling:** The AI agent processes your question, generates a response, and if the response includes Python code, it executes it to generate visualizations.
 4. **Visualization & History:** Results are displayed in an interactive format (charts, tables) along with a history of your queries.
 
+Check the video demo here: 
+https://youtu.be/FhRUhOVOL2A
+
 ## Contributing
 
 Contributions are welcome! Feel free to fork the repository and submit a pull request if you have improvements or new ideas.
