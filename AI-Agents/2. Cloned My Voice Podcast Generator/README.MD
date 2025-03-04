@@ -26,7 +26,7 @@ Whether you're looking to innovate your content strategy, enhance your podcast p
 
 🔗 Check out the video demo and let me know what you think!
 
-
+https://youtu.be/z65pZ_CLmUQ
 
 
 Feel free to reach out if you'd like to chat about integrating AI into your media projects!
