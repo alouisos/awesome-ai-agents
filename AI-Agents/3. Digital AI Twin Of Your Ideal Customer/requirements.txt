@@ -1,0 +1,7 @@
+streamlit>=1.0
+PyYAML>=5.4
+crewai
+crewai_tools
+pydantic>=1.8
+python-dotenv>=0.19
+openai>=1.0

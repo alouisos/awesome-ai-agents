@@ -1,0 +1,42 @@
+scrape_company_content:
+  description: >
+    Extract and analyze relevant content from {company} to gather insights, trends, and content related to {product} 
+    Identify key themes, sentiments, and emerging narratives from the company content that are most relevant 
+    to {product}. Provide structured insights that can be used for market research, content creation, or audience analysis.
+  expected_output: >
+    A well-organized report of high-quality, insightful details on {company} and {product} 
+    The output should highlight key takeaways, the USP of the company and the positioning of the company. 
+    Ensure the content is concise, objective, and formatted in a way that makes it easy to extract actionable insights. 
+
+marketing_research:
+  description: >
+    Extract and analyze relevant online content to gather insights, trends, and discussions related to {product} and {location} 
+    Identify key themes, user sentiments, and emerging narratives and threads that are most relevant 
+    to {product} and {location}. Ensure the scraped content is filtered for authenticity, engagement, and relevance, avoiding low-quality 
+    or spam content. Provide structured insights that can be used for market research, content creation, or audience analysis.
+  expected_output: >
+    A well-organized report of high-quality, insightful information on {product} and {location}. 
+    The output should highlight key takeaways, common sentiments, user opinions, and any emerging trends observed in the information retrived. 
+    Ensure the content is concise, objective, and formatted in a way that makes it easy to extract actionable insights. 
+    Avoid personal data collection, biased interpretations, or misleading conclusions.
+
+
+create_customer_persona:
+  description: >
+    Using the insights extracted from discussions report, develop a detailed and data-driven customer persona. 
+    Identify key demographics, behaviors, pain points, motivations, and interests based on real user conversations. 
+    Ensure the persona accurately represents the target audience, making it useful for marketing, product development, and customer engagement strategies. 
+    The persona should be realistic, actionable, and aligned with the observed trends and discussions.
+  expected_output: >
+    A comprehensive customer persona profile based on Reddit insights about {product} and {location}. 
+    The output should include:
+    - Name (fictional but representative)
+    - Age range and demographics
+    - Occupation and lifestyle
+    - Key motivations and goals
+    - Pain points and challenges
+    - Buying behaviors and decision-making process
+    - Preferred communication channels
+    - Quotes or statements that represent common sentiments from the discussions
+    Ensure the persona is well-structured, easy to understand, and backed by the data extracted from marketing research.
+
