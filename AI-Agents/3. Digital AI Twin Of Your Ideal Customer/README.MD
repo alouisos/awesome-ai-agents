@@ -2,18 +2,13 @@
 
 This Streamlit web application generates a company report and an ideal customer persona based on user inputs. It then enables you to chat with a specialized AI agent that “embodies” the generated customer persona. The application leverages CrewAI for content generation and the OpenAI Python API (v1.x) for interactive chat responses.
 
-Video Demo: https://youtu.be/_3yiQYmeF2I
-
 ## Features
 
 - **Content Generation:**  
-  - Generates a company report including company values and an ideal customer persona using CrewAI agents and tasks.
-  
-- **Spinner with Dynamic Messages:**  
-  - Displays a spinner that cycles through custom messages while waiting for the content generation to complete.
+  - Generates a company report including company values, marketing research and an ideal customer persona using CrewAI agents and tasks.
 
 - **Export Functionality:**  
-  - Provides a download button to export the generated company report as a TXT file.
+  - Provides a download button to export the generated reports as a TXT file.
   - Provides a download button to export the entire chat history.
 
 - **Interactive Chatbot:**  
