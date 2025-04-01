@@ -179,7 +179,7 @@ Apply softmax → predict token with highest prob: "The"
 
 ## Python Implementation
 Check file PicoGPT.py
-```
+
 
 ---
 
