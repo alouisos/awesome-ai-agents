@@ -22,4 +22,8 @@ User-Friendly Interface: With Streamlit, the entire process is presented in a sl
 
 This Streamlit web application generates a company report and an ideal customer persona based on user inputs. It then enables you to chat with a specialized AI agent that “embodies” the generated customer persona. The application leverages CrewAI for content generation and the OpenAI Python API (v1.x) for interactive chat responses.
 
+### [PicoGPT: Tiniest Transformer Ever To Get Intuitive With Transformers Matrix Sizes](https://github.com/alouisos/awesome-ai-agents/tree/main/Fundamentals/1.%20PicoGPT%3A%20TIniest%20Transformer%20Ever%20For%20Intuition) 
+
+Ever wondered about the size of the tensors in transfomers and why they have to be of this or that size? Need to get a deep intuition with the tiniest possible transformer that you can visualize? Check this project I made with lots of love to help everyone dive deeply into transfomers inner workings. 
+
 
